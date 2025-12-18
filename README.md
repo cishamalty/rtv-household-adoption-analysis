@@ -1,4 +1,4 @@
-# rtv-household-adoption-analysis
+# RTV-household-adoption-analysis
 
 ## Overview
 This repository contains a **program monitoring and evaluation (M&E) analysis** of household-level adoption of **WASH**, **Agriculture**, and **VSLA** interventions implemented under the **Raising The Village (RTV)** initiative.
