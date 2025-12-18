@@ -1,0 +1,6 @@
+region_name,district_name,cluster_name,wash_mean,agri_mean,vsla_mean,overall_mean,n_households,region_cluster
+Central,Rakai,Kizinga,0.9771989827238445,0.9923704288345173,0.8950276243093923,0.9548656786225848,543,Central / Rakai / Kizinga
+East,Luuka,Kawanga,0.9728231718219204,0.9462721258716252,0.9762202753441802,0.9651051910125752,799,East / Luuka / Kawanga
+South West,Kitagwenda,Kibale,1.0,0.9047619047619048,1.0,0.9682539682539684,24,South West / Kitagwenda / Kibale
+South West,Kitagwenda,Kiibale,0.9380721593968766,0.9622663281790906,0.9079159935379645,0.9360848270379774,619,South West / Kitagwenda / Kiibale
+South West,Mitooma,Kabarore,0.9952644041041832,0.9978952907129703,1.0,0.9977198982723846,543,South West / Mitooma / Kabarore
